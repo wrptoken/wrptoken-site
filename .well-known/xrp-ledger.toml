@@ -1,0 +1,12 @@
+[[ACCOUNTS]]
+address = "rwG5ZvAREQYCEoupsTm8wQvVXmKfRBuEPX"
+network = "main"
+desc = "Official WRP Token Issuer Account"
+
+[[CURRENCIES]]
+currency = "WRP"
+issuer = "rwG5ZvAREQYCEoupsTm8wQvVXmKfRBuEPX"
+network = "main"
+name = "WRP Token"
+display_decimals = 6
+icon = "https://wrptoken.com/logo.png"
